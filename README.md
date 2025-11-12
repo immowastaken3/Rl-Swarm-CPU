@@ -447,7 +447,7 @@ gswarm
 
 <div align="center">
 
-# 📈 Upgrade to new release (v0.6.4) {Mac/Linux} 
+# 📈 Upgrade to new release (CodeZero) {Mac/Linux} 
 
 </div>
 
@@ -464,8 +464,14 @@ screen -r gensyn
 cd rl-swarm
 ```
 
-* Pull the latest release 
+* Deactivate Environment
 
+```
+deactivate 
+rm -rf .venv
+```
+
+* Pull the latest release 
 
 ```
 git switch main
@@ -476,6 +482,11 @@ git pull origin main
 
 
 * Start the swarm Node 🚀
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
 
 ```
 ./run_rl_swarm.sh
