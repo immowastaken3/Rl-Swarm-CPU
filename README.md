@@ -492,10 +492,8 @@ source .venv/bin/activate
 
 <pre>
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
-
-If U have any issue then open a issue on this repo or Dm me on TG~
-
-Thank U! 👨🏻‍💻    Happy Coding💗
+Happy coding guys!!
+If you have any doubts you can ping me on x at
+https://x.com/immowastaken?t=qr7N6biVFyqsEyA_ZNBpSw&s=09
 
 </pre>
