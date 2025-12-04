@@ -493,7 +493,9 @@ source .venv/bin/activate
 <pre>
 
 Happy coding guys!!
-If you have any doubts you can ping me on x at
+If you have any doubts you can ping me on x at:-
+@immowastaken
+
 https://x.com/immowastaken?t=qr7N6biVFyqsEyA_ZNBpSw&s=09
 
 </pre>
