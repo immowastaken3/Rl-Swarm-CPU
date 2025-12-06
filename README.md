@@ -3,11 +3,14 @@
 # 💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 💻
 
 </div>
+System Requirements
+A 64-bit arm64 or x86 CPU with at least 32 GB RAM, or an officially supported NVIDIA GPU (3090, 4090, 5090, A100, H100)
 
+Between Python 3.10 and Python 3.13
 
-## Device/System Requirements 🖥️
+Docker and Git installed & configured
 
-![image](https://github.com/user-attachments/assets/4fbf23bb-846c-4def-be24-157c51fa0b4e)
+Stable internet connection
 
 
 
