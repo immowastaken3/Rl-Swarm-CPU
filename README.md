@@ -4,7 +4,8 @@
 
 </div>
 System Requirements
-A 64-bit arm64 or x86 CPU with at least 32 GB RAM, or an officially supported NVIDIA GPU (3090, 4090, 5090, A100, H100)
+
+A 64-bit arm64 or x86 CPU with at least 32 GB RAM,or an officially supported NVIDIA GPU (3090, 4090, 5090, A100, H100)
 
 Between Python 3.10 and Python 3.13
 
